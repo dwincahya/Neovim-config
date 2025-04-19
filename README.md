@@ -1,12 +1,9 @@
-# 🖤 Neovim Config
-
-> Custom Neovim setup keren & produktif, dengan tampilan dashboard archbtw dan fitur modern ala VSCode — cocok buat coding harian full power!
+#  Neovim Config
 
 ---
 
 ## ✨ Fitur Utama
 
-- 🏠 **Dashboard keren** dengan logo archbtw
 - 🚀 **Lazy.nvim** untuk plugin management super cepat
 - 🔍 **Telescope** buat fuzzy search, recent files, dan workspace/project list
 - 🌈 **Treesitter** untuk syntax highlighting mantap
@@ -99,15 +96,6 @@ pip install black
 ├── python-app/       # Deteksi via pyproject.toml
 ├── lua-stuff/        # Deteksi via init.lua
 ```
-
----
-
-## ❤️ Credits
-
-- Neovim
-- Lazy.nvim
-- Telescope, Treesitter, LSPConfig
-- Arch Linux community 🐧
 
 ---
 
